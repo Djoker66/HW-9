@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).AssemblyInfo.cs
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).exe
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).deps.json
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).runtimeconfig.json
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).runtimeconfig.dev.json
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).dll
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\bin\Debug\netcoreapp3.1\HW  9 (true).pdb
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).dll
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).pdb
+C:\Users\User\Desktop\Visual Studio\HW  9 (true)\HW  9 (true)\obj\Debug\netcoreapp3.1\HW  9 (true).genruntimeconfig.cache
